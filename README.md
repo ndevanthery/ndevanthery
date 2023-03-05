@@ -51,6 +51,9 @@ I try to always learn new stuffs! Currently I am learning Angular and Springboot
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="80" height="80"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" alt="filezilla" width="80" height="80"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="raspberrypi" width="80" height="80"/>
 
 
-Thanks for visiting my profile! If you're interested in collaborating or have any questions, feel free to reach out to me.
+### Contact
+
+Thanks for visiting my profile! If you're interested in collaborating or have any questions, feel free to reach out to me on
+<a href="https://www.linkedin.com/in/ndevanthery/">my Linkedin <a/>
 
 
