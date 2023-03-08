@@ -14,7 +14,7 @@ Currently, I'm working on two projects that showcase my skills and knowledge.
 
 ## Continous Learning
 
-I try to always learn new stuffs! Currently I am learning Angular and Springboot ! 
+I try to always learn new stuffs! Currently I am learning Angular and Spring ! 
 
 ## My Experiences
 
