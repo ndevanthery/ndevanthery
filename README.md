@@ -6,11 +6,9 @@ I'm a 21-year-old Business IT student at HES-SO, and I'm passionate about progra
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndevanthery&label=Profile%20views&color=0e75b6&style=flat" alt="ndevanthery" /> </p>
 
 ## Ongoing Projects
-Currently, I'm working on two projects that showcase my skills and knowledge.
+Currently, I'm working on a project that showcase my skills and knowledge.
 
-- 🚑 **HealthSim**: This is a healthcare project developed in Flutter for a real client. It's going to be a web app and a mobile app that helps patients manage their health records and appointments. Developped in an Agile environment.
-
-- 🏋️‍♀️ **GymBro**: This is a personal fitness application developed in Flutter. It helps users track their fitness goals and progress, with features like workout tracking and meal planning.
+- 🏋️‍♀️ **GymBro**: This is a personal fitness application developed in Flutter. It helps users track their fitness goals and progress, with features like workout tracking and meal planning. It is available on open testing on https://play.google.com/store/apps/details?id=com.gymbroswiss.gymbro
 
 ## Continous Learning
 
