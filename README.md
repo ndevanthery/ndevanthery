@@ -1,18 +1,13 @@
 ## Hi there 👋
 
 
-I'm a 21-year-old Business IT student at HES-SO, and I'm passionate about programming and creating innovative solutions. 
+I'm a 22-year-old Mobile Software Engineer at Alpian
+I'm passionate about programming and creating innovative solutions. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndevanthery&label=Profile%20views&color=0e75b6&style=flat" alt="ndevanthery" /> </p>
 
-## Ongoing Projects
-Currently, I'm working on a project that showcase my skills and knowledge.
+## Side Projects
 
 - 🏋️‍♀️ **GymBro**: This is a personal fitness application developed in Flutter. It helps users track their fitness goals and progress, with features like workout tracking and meal planning. It is available on open testing on https://play.google.com/store/apps/details?id=com.gymbroswiss.gymbro
-
-## Continous Learning
-
-I try to always learn new stuffs! Currently I am learning Angular and Spring ! 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
